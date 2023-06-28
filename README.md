@@ -5,7 +5,8 @@ huomautus [<u>käyttöehdoissa</u>](https://www.finlex.fi/fi/kayttoehdot/).
 
 Eduskunnan päätöksen mukaisesti säädetään:
 
-1.luku [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
+1
+luku [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Yleiset säännökset
 
@@ -41,7 +42,7 @@ asumisoikeusasunnoista [<u>393/2021</u>](https://www.finlex.fi/fi/laki/ajantasa
 joka on voimassa 1.1.2022 alkaen. Ks.
 Asunto-osakeyhtiöL [<u>1599/2009</u>](https://www.finlex.fi/fi/laki/ajantasa/2009/20091599) ja
 aikaosuusasuntojen kaupasta KuluttajansuojaL [<u>38/1978 10
-l</u>](https://www.finlex.fi/fi/laki/ajantasa/1978/19780038#L10).*
+luku</u>](https://www.finlex.fi/fi/laki/ajantasa/1978/19780038#L10).*
 
 2
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
@@ -132,7 +133,7 @@ rakennukset kokonaisuudessaan käyttöön otettaviksi. Jos kysymys on
 uusien asuinhuoneistojen lisärakentamisesta, rakentamisvaihe päättyy,
 kun uudet asuinhuoneistot on hyväksytty käyttöön otettaviksi.
 
-2.luku
+2 luku
 
 Ostajan suojaaminen
 rakentamisvaiheessa [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
@@ -1105,7 +1106,7 @@ toimia halutessaan estää vakuuden vapautumisen.
 24 § on kumottu
 L:lla [<u>7.10.2005/795</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795).
 
-3.luku
+3 luku
 
 Varausmaksu, käsiraha sekä
 vakiokorvaus [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
@@ -1230,7 +1231,7 @@ sovitella, jos se muuten olisi kohtuuton ottaen huomioon kaupan
 syntymättä jäämisen syyt, vastapuolelle aiheutunut vahinko tai muut
 seikat.
 
-4.luku
+4 luku
 
 Uuden asunnon kauppa
 
@@ -2246,7 +2247,7 @@ vahingonkorvauslain [<u>(412/74)</u>](https://www.finlex.fi/fi/laki/ajantasa/19
 tuotevastuulain [<u>(694/90)</u>](https://www.finlex.fi/fi/laki/ajantasa/1990/19900694) tai
 muun lain nojalla.
 
-5.luku
+5 luku
 
 Muut säännökset asunnon ensimmäisen myyjän ja laitetoimittajan vastuusta
 
@@ -2360,7 +2361,7 @@ Luvun säännösten pakottavuus
 Sopimusehto, jolla rajoitetaan asuntoyhteisölle tai kuluttajalle tämän
 luvun mukaan kuuluvia oikeuksia, on mitätön.
 
-6.luku
+6 luku
 
 Käytetyn asunnon kauppa
 
@@ -2931,7 +2932,7 @@ Vahingonkorvauksen sovittelu
 Mitä 4 luvun 38 §:ssä säädetään vahingonkorvauksen sovittelusta,
 sovelletaan myös tämän luvun säännösten mukaiseen vahingonkorvaukseen.
 
-7.luku
+7 luku
 
 Erinäiset säännökset
 
@@ -3126,7 +3127,7 @@ kuluttajavirastolle säädetään maankäyttö- ja rakennuslain [<u>(132/1999)
 153 b
 §:ssä</u>](https://www.finlex.fi/fi/laki/ajantasa/1999/19990132#P153b).
 
-8.luku
+8 luku
 
 Voimaantulo
 
