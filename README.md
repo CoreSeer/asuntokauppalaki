@@ -11,7 +11,7 @@ luku [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940
 Yleiset säännökset
 
 1:1
-§ [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
+§ 
 
 Lain soveltamisala
 
@@ -45,7 +45,7 @@ aikaosuusasuntojen kaupasta KuluttajansuojaL [<u>38/1978 10
 luku</u>](https://www.finlex.fi/fi/laki/ajantasa/1978/19780038#L10).*
 
 1:2
-§ [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
+§ 
 
 Osaomistusasunnot
 
@@ -53,7 +53,7 @@ Mitä tässä laissa säädetään asunnosta ja osakkeesta, koskee myös
 osaomistusasuntoa ja osakeosuutta, jollei toisin mainita.
 
 1:3
-§ [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
+§ 
 
 Määritelmiä
 
