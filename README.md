@@ -10,7 +10,7 @@ luku [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940
 
 Yleiset säännökset
 
-1
+1:1
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Lain soveltamisala
@@ -44,7 +44,7 @@ Asunto-osakeyhtiöL [<u>1599/2009</u>](https://www.finlex.fi/fi/laki/ajantasa/2
 aikaosuusasuntojen kaupasta KuluttajansuojaL [<u>38/1978 10
 luku</u>](https://www.finlex.fi/fi/laki/ajantasa/1978/19780038#L10).*
 
-2
+1:2
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Osaomistusasunnot
@@ -52,7 +52,7 @@ Osaomistusasunnot
 Mitä tässä laissa säädetään asunnosta ja osakkeesta, koskee myös
 osaomistusasuntoa ja osakeosuutta, jollei toisin mainita.
 
-3
+1:3
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Määritelmiä
@@ -87,7 +87,7 @@ tai tarjoaa niitä vastiketta vastaan hankittaviksi;
 asuinhuoneiston tarjoamista kuluttajan varattavaksi sellaisin ehdoin,
 että tarjoaminen ei kuulu 2 luvun soveltamisalaan.
 
-4
+1:4
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Perustajaosakas
@@ -112,7 +112,7 @@ todennäköiseksi, että kuluttaja toimii luovuttajan välikätenä;
 rakentamisvaiheen päättymistä tarkoituksenaan hankkia asuinhuoneisto
 itselleen tai perheenjäsenelleen.
 
-5
+1:5
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Rakentamisvaihe
@@ -138,7 +138,7 @@ kun uudet asuinhuoneistot on hyväksytty käyttöön otettaviksi.
 Ostajan suojaaminen
 rakentamisvaiheessa [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
-1
+2:1
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Luvun soveltamisala
@@ -166,7 +166,7 @@ sellaisen vastikkeen maksamiseen, jonka kuluttaja on sitoutunut
 maksamaan lisä- tai muutostöiden suunnittelua koskevan erillisen
 toimeksiannon perusteella.
 
-1 a
+2:1 a
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Säännösten soveltaminen muihin asuntoyhteisöihin
@@ -177,7 +177,7 @@ asuinhuoneiston hallintaan oikeuttavaa yhteisöosuutta. Mitä säädetään
 osakekirjasta, koskee soveltuvin osin myös muuta asunnon hallinta- tai
 omistusoikeutta osoittavaa asiakirjaa.
 
-1 b
+2:1 b
 § [<u>(6.3.2015/191)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a6.3.2015-191)
 
 Soveltamisalan rajoitukset
@@ -189,7 +189,7 @@ myöskään sovelleta, jos kyse on
 ryhmärakennuttamislain [<u>(190/2015)</u>](https://www.finlex.fi/fi/laki/ajantasa/2015/20150190) soveltamisalaan
 kuuluvasta asuntoyhteisömuotoisesta ryhmärakennuttamisesta.
 
-1 c
+2:1 c
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Lisärakentaminen
@@ -218,7 +218,7 @@ Pakottavuus
 Sopimusehto, jolla vähennetään osakkeenostajalle tai osakeyhtiölle tämän
 luvun mukaan kuuluvia oikeuksia, on mitätön.
 
-3
+2:3
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Turva-asiakirjat
@@ -258,7 +258,7 @@ säädetään.
 *4 momentti on kumottu
 L:lla [<u>7.10.2005/795</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795).*
 
-4 a
+2:4 a
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Turva-asiakirjojen tarkastaminen ja niiden luovuttaminen
@@ -288,7 +288,7 @@ kustannuksella. [<u>(22.12.2009/1401)</u>](https://www.finlex.fi/fi/laki/ajanta
 Rakentamisvaiheen päätyttyä turva-asiakirjat on luovutettava
 osakeyhtiölle.
 
-5
+2:5
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Tietojen antaminen turva-asiakirjoista
@@ -303,7 +303,7 @@ niihin liittyviä todistuksia ja jäljennöksiä on annettava myös sille,
 joka tarvitsee niitä täyttääkseen 10 §:ssä tarkoitetun
 selonottovelvollisuutensa.
 
-6
+2:6
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Osakekirjojen säilyttäminen ja luovuttaminen
@@ -339,7 +339,7 @@ luovutettava ostajalle tai panttioikeuden haltijalle 2 ja 3 momentissa
 säädetyin edellytyksin, kun omistusoikeus osakkeisiin on siirtynyt
 kokonaisuudessaan ostajalle.
 
-6 a
+2:6 a
 § [<u>(28.12.2018/1331)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a28.12.2018-1331)
 
 Osakehuoneistorekisteriin tehtävät kirjaukset ja merkinnät
@@ -374,7 +374,7 @@ tarkoitettu merkintä poistetaan säilyttäjän ilmoituksesta. Jos
 osakkeeseen kohdistuu panttioikeus, ulosmittaus tai turvaamistoimenpide,
 menetellään lisäksi siten kuin 3 momentissa säädetään.
 
-6 b
+2:6 b
 § [<u>(28.12.2018/1331)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a28.12.2018-1331)
 
 Panttikirjojen säilyttäminen ja luovuttaminen
@@ -391,8 +391,8 @@ vakuudeksi yhtiön veloista, on luovutettava yhtiölle.
 Sähköinen panttikirja katsotaan luovutetuksi sille, joka on kirjattu
 lainhuuto- ja kiinnitysrekisteriin sähköisen panttikirjan saajaksi.
 
-7
-§ [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
+2:7
+§ 
 
 Turva-asiakirjojen säilyttäjän tehtävistään perimät palkkiot
 
@@ -402,8 +402,8 @@ panttikirjojen säilyttämisestä, 15 §:ssä tarkoitetun luettelon
 pitämisestä ja muista vastaavista tehtävistä osakeyhtiöltä sekä
 todistusten ja jäljennösten antamisesta niiden pyytäjältä.
 
-[<u>8
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+2:8
+§
 
 Taloussuunnitelman merkitys ja muuttaminen
 
@@ -425,8 +425,8 @@ Taloussuunnitelman muutos on ilmoitettava turva-asiakirjojen
 säilyttäjälle ja osakkeenostajille ennen kuin muutoksen tarkoittamaan
 oikeustoimeen tai muuhun toimenpiteeseen ryhdytään.
 
-[<u>9
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+2:9
+§
 
 Taloussuunnitelman muuttaminen ilman osakkeenostajien suostumusta
 
@@ -458,8 +458,8 @@ kun muutoksen perusteena oleva velvoite on syntynyt. Ilmoitukseen on
 liitettävä selvitys muutosperusteesta. Taloussuunnitelman muutoksesta ja
 sen perusteesta on ilmoitettava viipymättä myös osakkeenostajille.
 
-[<u>10
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+2:10
+§
 
 Taloussuunnitelman vastaisesti tehdyn oikeustoimen tehottomuus
 
@@ -481,8 +481,8 @@ jota ei taloussuunnitelmassa ole otettu huomioon ja joka ei 9 §:n mukaan
 oikeuta taloussuunnitelman muuttamiseen, suoritus on 1 momentissa
 mainituin edellytyksin palautettava.
 
-[<u>11
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+2:11
+§
 
 Osakkeen luovutus ja panttaus
 
@@ -513,8 +513,8 @@ osakkeeseen, osakkeenostajalla on kaupan purkamisen varalta panttioikeus
 ostamaansa osakkeeseen kauppahinnan palautussaatavan ja sille 4 luvun 36
 §:n 1 momentin mukaan kertyvän koron vakuudeksi.
 
-11 a
-§ [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
+2:11 a
+§ 
 
 Kauppasopimuksen sisältö
 
@@ -548,8 +548,8 @@ estää vakuuden vapautumisen;
 9\) myyjän velvollisuus järjestää vuositarkastus sekä selvitys virheestä
 ilmoittamista koskevista 4 luvun 18 ja 19 §:n säännöksistä.
 
-11 b
-§ [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
+2:11 b
+§ 
 
 Osaomistusasunnon kauppasopimuksen sisältö
 
@@ -573,7 +573,7 @@ keskeiset kaupan ehdot;
 3\) sitoutuuko myyjä lunastamaan takaisin myydyt osuudet ja lunastusta
 koskevat keskeiset ehdot.
 
-12
+2:12
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Kauppahintojen maksutili
@@ -592,8 +592,8 @@ Yhtiön tilintarkastajalla ja ostajien 21 §:n mukaisesti valitsemalla
 tilintarkastajalla on salassapitovelvollisuuden estämättä oikeus saada
 tietoja 1 momentissa tarkoitetun tilin käytöstä.
 
-[<u>13
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+2:13
+§
 
 Myytyä osaketta ja kauppaan perustuvaa saatavaa koskeva
 ulosmittauskielto
@@ -612,8 +612,8 @@ perustajaosakkaalta. [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/aja
 kumottu
 OsakeyhtiöL:lla [<u>624/2006</u>](https://www.finlex.fi/fi/laki/ajantasa/2006/20060624).*
 
-[<u>14
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+2:14
+§
 
 Perustajaosakkaan konkurssin vaikutukset
 
@@ -640,8 +640,8 @@ joiden maksamat kauppahintaerät ylittävät edellä tarkoitetun määrän, on
 oikeus saada erotus takaisin 4 luvun 36 §:n 1 momentin mukaisine
 korkoineen.
 
-[<u>15
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+2:15
+§
 
 Osaketta koskevien oikeustoimien rekisteröinti
 
@@ -683,8 +683,8 @@ Ulosottokaarella [<u>705/2007</u>](https://www.finlex.fi/fi/laki/ajantasa/2007/
 ks. Ulosottokaari [<u>705/2007 8
 luku</u>](https://www.finlex.fi/fi/laki/ajantasa/2007/20070705#L8).*
 
-[<u>16
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+2:16
+§
 
 Turva-asiakirjojen säilyttäjän vastuu
 
@@ -696,7 +696,7 @@ huolellisuutta.
 *2 momentti on kumottu
 L:lla [<u>7.10.2005/795</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795).*
 
-17
+2:17
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Vakuus rakentamista ja asunto-osakkeiden kauppaa koskevien sopimusten
@@ -737,7 +737,7 @@ velattomasta hinnasta, kauppahintana 2 ja 3 momentin mukaista vakuutta
 laskettaessa pidetään rahamäärää, joka vastaa 70 prosenttia myytyjen
 osakkeiden velattomasta hinnasta.
 
-17 a
+2:17 a
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Vakuuden käyttäminen
@@ -765,7 +765,7 @@ korvaamiseksi, joka on aiheutunut rakentamista koskevan sopimuksen
 täyttämättä jäämisestä tai rakennusvirheistä yhtiön
 kunnossapitovelvollisuuden piiriin kuuluvissa rakennuksen osissa.
 
-18
+2:18
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Vakuuden vapauttaminen
@@ -806,7 +806,7 @@ kuluttajavalituslautakunnasta [<u>42/1978</u>](https://www.finlex.fi/fi/laki/aj
 kumottu L:lla
 kuluttajariitalautakunnasta [<u>8/2007</u>](https://www.finlex.fi/fi/laki/ajantasa/2007/20070008).*
 
-18 a
+2:18 a
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Vakuuden vapautuminen ilman suostumuksia
@@ -823,7 +823,7 @@ antajalle tai talletuspankille kuluttajavalituslautakunnan tai
 käräjäoikeuden antama todistus asian vireille saattamisesta ennen edellä
 säädetyn määräajan päättymistä uhalla, että vakuus muuten vapautuu.
 
-18 b
+2:18 b
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Vakuus osaomistusyhtiön osakkeiden tai niiden osan kauppaa koskevien
@@ -854,8 +854,8 @@ vastusta vakuuden vapautumista.
 Jos vakuus ei riitä kaikkien korvaussaatavien kattamiseen, vakuus on
 jaettava saatavien mukaisessa suhteessa.
 
-[<u>19
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+2:19
+§
 
 Vakuusjärjestelyt perustajaosakkaan suorituskyvyttömyyden varalta
 
@@ -897,7 +897,7 @@ osakkeenostajien kesken korvaussaatavien mukaisessa suhteessa.
 Vakuudesta suoritettuja korvauksia ei voida vaatia
 takaisin. [<u>(17.10.1997/941)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a17.10.1997-941)
 
-19 a
+2:19 a
 § [<u>(17.10.1997/941)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a17.10.1997-941)
 
 Suorituskyvyttömyysvakuuden antajan vastuunrajoitukset
@@ -923,7 +923,7 @@ rakennuskustannusindeksin (2000=100) talotyyppi-indeksin asuinkerrostalo
 muutosta
 vastaavasti. [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
-19 b
+2:19 b
 § [<u>(17.10.1997/941)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a17.10.1997-941)
 
 Osakeyhtiön ja osakkeenostajan omavastuu suorituskyvyttömyysvakuudessa
@@ -960,7 +960,7 @@ vastuusta vähennetään vain osakeyhtiön omavastuu.
 *4 momentti on kumottu
 L:lla [<u>7.10.2005/795</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795).*
 
-19 c
+2:19 c
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Suorituskyvyttömyysvakuus lisärakentamisessa
@@ -983,7 +983,7 @@ niistä rakennuskustannuksista, jotka on merkittävä
 lisärakentamishankkeen taloussuunnitelmaan valtioneuvoston asetuksen
 mukaisesti.
 
-20
+2:20
 § [<u>(22.12.2009/1401)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a22.12.2009-1401)
 
 Osakkeenostajien kokous
@@ -1024,8 +1024,8 @@ riippumatta. [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/19
 Osakkeenostajien kokouksella on sama oikeus kuin yhtiökokouksella saada
 tietoja tilintarkastajalta.
 
-[<u>22
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+2:22
+§
 
 Rakennustyön tarkkailija
 
@@ -1044,7 +1044,7 @@ perustajaosakkaaseen. Tarkkailijalla on oikeus saada osakeyhtiöltä ja
 perustajaosakkaalta sellaiset tiedot, jotka tarvitaan työn edistymisen
 seuraamiseksi, sekä päästä rakennuskohteeseen.
 
-23
+2:23
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Uuden hallituksen valitseminen ja välitilinpäätös
@@ -1072,7 +1072,7 @@ perustajaosakkaan luovuttaman osakkeen osalta osakkeenostaja.
 Tässä pykälässä tarkoitettua yhtiökokousta ei tarvitse järjestää
 osaomistusyhtiössä.
 
-23 a
+2:23 a
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Vahingonkorvausvelvollisuus
@@ -1086,7 +1086,7 @@ tai useamman kesken on voimassa, mitä
 vahingonkorvauslain [<u>(412/1974)</u>](https://www.finlex.fi/fi/laki/ajantasa/1974/19740412) 2
 ja 6 luvussa säädetään.
 
-23 b
+2:23 b
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Osaomistusyhtiön hallituksen tiedonantovelvollisuus rakentamisvaiheen
@@ -1100,7 +1100,7 @@ Lisäksi ostajille on ilmoitettava ajankohta, jolloin vakuus 18 b §:n
 mukaisesti vapautuu ilman ostajan suostumusta, ja miten ostajan tulee
 toimia halutessaan estää vakuuden vapautumisen.
 
-24
+2:24
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 24 § on kumottu
@@ -1111,7 +1111,7 @@ L:lla [<u>7.10.2005/795</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/199408
 Varausmaksu, käsiraha sekä
 vakiokorvaus [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
-1
+3:1
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Luvun soveltamisala
@@ -1133,7 +1133,7 @@ välitysliikkeen oikeuksista ja velvollisuuksista säädetään kiinteistöjen
 ja vuokrahuoneistojen välityksestä annetussa
 laissa [<u>(1074/2000)</u>](https://www.finlex.fi/fi/laki/ajantasa/2000/20001074).
 
-2
+3:2
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Pakottavuus
@@ -1143,7 +1143,7 @@ varauksen tekijänä olevan kuluttajan vahingoksi, ellei jäljempänä toisin
 säädetä. Sama koskee myyjää, jos myytävä asunto ei kuulu hänen
 elinkeinotoimintaansa.
 
-3
+3:3
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Käsirahan ja vakiokorvauksen merkitys
@@ -1173,7 +1173,7 @@ tarjouksen tekijä on kuluttaja, he voivat kuitenkin erikseen sopia
 siitä, että kaupasta vetäytyvän on korvattava vastapuolelleen tälle
 aiheutunut todellinen vahinko.
 
-3 a
+3:3 a
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Varausmaksun merkitys
@@ -1182,8 +1182,8 @@ Jos kauppa tehdään, varausmaksu on kokonaisuudessaan laskettava osaksi
 kauppahintaa. Jos kauppa jää syntymättä, myyjän on viipymättä
 palautettava varausmaksu.
 
-[<u>4
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+3:4
+§
 
 Kielto vastaanottaa käsirahana tai varausmaksuna vekseliä tai muuta
 juoksevaa
@@ -1202,8 +1202,8 @@ Joka 1 momentin säännöksen vastaisesti ottaa vekselin tai juoksevan
 sitoumuksen, ei saa vedota siihen. Velallisen oikeudesta esittää
 väitteitä siirronsaajaa kohtaan säädetään erikseen.
 
-[<u>5
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+3:5
+§
 
 Kielto vastaanottaa päällekkäisiä käsirahoja
 
@@ -1214,8 +1214,8 @@ että käsiraha jää myyjän hyväksi. Jos myyjä on ottanut päällekkäisiä
 käsirahoja, tarjoukset, joiden johdosta käsirahat on annettu, eivät sido
 tarjousten tekijöitä.
 
-[<u>6
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+3:6
+§
 
 Eräiden rahamäärien
 yläraja [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
@@ -1237,7 +1237,7 @@ Uuden asunnon kauppa
 
 Yleiset säännökset
 
-1
+4:1
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Luvun soveltamisala
@@ -1260,15 +1260,15 @@ Käytetyn asunnon kauppaa koskevien säännösten soveltamisesta uuden
 asunnon kauppaan eräissä tapauksissa säädetään 6 luvun 1 §:n 1 momentin
 2 kohdassa.
 
-[<u>2
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:2
+§
 
 Pakottavuus
 
 Sopimusehto, joka poikkeaa tämän luvun säännöksistä kuluttajan
 vahingoksi, on mitätön, jollei jäljempänä toisin säädetä.
 
-3
+4:3
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Velvollisuus vakuuden täydentämiseen
@@ -1289,7 +1289,7 @@ luovutettu ostajan hallintaan. Jos velvollisuus pitää vakuus voimassa 2
 luvun 17 §:n 3 momentin perusteella päättyy sitä ennen, vakuus on
 jäljellä olevan ajan voimassa vain ostajan hyväksi.
 
-3 a
+4:3 a
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Suorituskyvyttömyysvakuus
@@ -1307,8 +1307,8 @@ asunnot on rakennettu.
 Hallinnan ja asiakirjojen luovutus, kustannusten jako ja vaaranvastuu
 uuden asunnon kaupassa
 
-[<u>4
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:4
+§
 
 Asunnon hallinnan ja osakekirjan tai muun asiakirjan luovutus sekä
 suostumuksen antaminen
@@ -1344,8 +1344,8 @@ ostajan saannon kirjaamiseen osakehuoneistorekisteriin ehdollisena, on
 annettava, jollei toisin ole sovittu, heti kaupanteon
 jälkeen. [<u>(28.12.2018/1331)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a28.12.2018-1331)
 
-[<u>5
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:5
+§
 
 Asunnosta aiheutuvat kustannukset
 
@@ -1375,8 +1375,8 @@ asunto-osakeyhtiölle säädetään asunto-osakeyhtiölaissa.
 Ostajan velvollisuudesta suorittaa varainsiirtoveroa säädetään
 varainsiirtoverolaissa [<u>(931/1996)</u>](https://www.finlex.fi/fi/laki/ajantasa/1996/19960931). [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
-[<u>6
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:6
+§
 
 Vaaranvastuu
 
@@ -1395,8 +1395,8 @@ kauppahinta.
 Seuraamukset kaupan kohteen luovutuksen viivästymisestä uuden asunnon
 kaupassa
 
-[<u>7
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:7
+§
 
 Oikeus pidättyä maksusta
 
@@ -1416,8 +1416,8 @@ ostajalla on oikeus pidättyä maksamasta sellaista osaa kauppahinnasta,
 joka on tarpeen myyjän viivästykseen perustuvan
 vahingonkorvausvaatimuksen vakuudeksi.
 
-[<u>8
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:8
+§
 
 Kaupan purku myyjän viivästyksen vuoksi
 
@@ -1444,8 +1444,8 @@ Ostaja ei saa purkaa kauppaa myyjän viivästyksen vuoksi sen jälkeen, kun
 asunto ja 4 §:n 3 momentissa tarkoitetut asiakirjat on luovutettu hänen
 hallintaansa.
 
-[<u>9
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:9
+§
 
 Purku ennakoidun viivästyksen vuoksi
 
@@ -1453,8 +1453,8 @@ Jos ennalta on painavia syitä olettaa, että purkuun oikeuttava viivästys
 tulee tapahtumaan, ostaja saa purkaa kaupan jo ennen kuin asunnon
 sovittu luovutusajankohta on käsillä.
 
-[<u>10
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:10
+§
 
 Myyjän tiedustelu viivästystilanteessa
 
@@ -1463,8 +1463,8 @@ huolimatta määrätyssä ajassa tapahtuvan sopimuksen täyttämisen eikä
 ostaja vastaa kohtuullisessa ajassa tiedustelun saatuaan, ostaja ei saa
 purkaa kauppaa, jos myyjä täyttää sopimuksen ilmoittamassaan ajassa.
 
-[<u>11
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:11
+§
 
 Vahingonkorvaus myyjän viivästyksen vuoksi
 
@@ -1505,8 +1505,8 @@ ajoissa.
 Samanlainen oikeus korvaukseen kuin ostajalla on hänen
 perheenjäsenellään, joka kärsii viivästyksen vuoksi vahinkoa.
 
-[<u>12
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:12
+§
 
 Arvioidun valmistumisajan merkitys
 
@@ -1520,8 +1520,8 @@ luovutusajankohtaan.
 Myyjä saa vedota 1 momentin säännökseen vain, jos sitä vastaava ehto on
 sisällytetty kauppasopimukseen.
 
-[<u>13
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:13
+§
 
 Myyjän konkurssi
 
@@ -1535,8 +1535,8 @@ ja aseta turvaavaa vakuutta sopimuksen täyttämisestä.
 
 Uuden asunnon virhe
 
-[<u>14
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:14
+§
 
 Yleinen virhesäännös
 
@@ -1562,8 +1562,8 @@ muilta ominaisuuksiltaan tavanomaisen hyvää laatua; tai
 6\) asunto ei muuten vastaa sitä, mitä asunnonostajalla yleensä on
 sellaisen asunnon kaupassa perusteltua aihetta olettaa.
 
-[<u>15
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:15
+§
 
 Asuntoa koskevat tiedot
 
@@ -1604,8 +1604,8 @@ Myyjän vastuuseen muun kuin hänen itsensä antamista tai antamatta
 jättämistä tiedoista sovelletaan vastaavasti, mitä 6 luvun 27 §:ssä
 säädetään.
 
-[<u>16
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:16
+§
 
 Asunnon tarkastus ennen kauppaa
 
@@ -1615,8 +1615,8 @@ tienneen kauppaa tehtäessä.
 Jos asunto sitä myytäessä on valmis, sovelletaan, mitä 6 luvun 12 ja 19
 §:ssä säädetään.
 
-[<u>17
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:17
+§
 
 Virheellisyyden määräävä ajankohta ja takuun merkitys
 
@@ -1646,7 +1646,7 @@ perusteella virheestä, josta hän ei muuten tämän lain nojalla olisi
 vastuussa, jos myyjä osoittaa ilmoittaneensa asiasta ostajalle selkeällä
 tavalla ennen kaupantekoa.
 
-17 a
+4:17 a
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Tiedot takuusta
@@ -1668,7 +1668,7 @@ pykälässä säädettyjä vaatimuksia.
 
 Uuden asunnon virheen seuraamukset
 
-18
+4:18
 § [<u>(17.10.1997/941)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a17.10.1997-941)
 
 Vuositarkastus
@@ -1699,7 +1699,7 @@ kustannuksella. Mitä 1 ja 2 momentissa säädetään vuositarkastukseen
 liittyvistä myyjän velvollisuuksista, koskee tällöin soveltuvin osin
 vakuuden antajaa.
 
-18 a
+4:18 a
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Virhe asuntoyhteisön kunnossapitovastuulle kuuluvassa kiinteistön osassa
@@ -1721,7 +1721,7 @@ Jos asuntoyhteisö ei käytä 1 momentissa säädettyä oikeuttaan, ostajalla
 on oikeus vedota sellaiseen virheeseen, jolla on suoria haitallisia
 vaikutuksia ostajan hallinnassa olevaan asuntoon.
 
-18 b
+4:18 b
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Asuntoyhteisön oikeus vaatia virheen oikaisemista ostajan lukuun
@@ -1730,8 +1730,8 @@ Asuntoyhteisöllä on oikeus vaatia ostajan lukuun myös sellaisen virheen
 oikaisemista, joka ilmenee ostajan kunnossapitovastuulle kuuluvassa
 kiinteistön osassa, jos virheen oikaiseminen on välttämätöntä.
 
-[<u>19
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:19
+§
 
 Virheilmoitus
 
@@ -1756,8 +1756,8 @@ rakentamista tai korjausrakentamista koskevan sopimuksen tai muun
 sitoumuksen nojalla velvollinen vastaamaan virheen korjaamisesta myyjän
 lukuun.
 
-[<u>20
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:20
+§
 
 Poikkeukset virheilmoituksen laiminlyönnin vaikutuksista
 
@@ -1773,8 +1773,8 @@ suojelemiseksi annetuissa säännöksissä tai määräyksissä; tai
 3\) virhe perustuu siihen, että asunnon ominaisuuksista muuten aiheutuu
 vaaraa terveydelle tai omaisuudelle.
 
-[<u>21
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:21
+§
 
 Oikeus pidättyä maksusta
 
@@ -1783,8 +1783,8 @@ jäljellä olevaa osaa kauppahinnasta. Ostaja ei kuitenkaan saa pidättää
 rahamäärää, joka ilmeisesti ylittää ne vaatimukset, joihin hänellä on
 virheen perusteella oikeus.
 
-[<u>22
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:22
+§
 
 Myyjän velvollisuus oikaista virhe
 
@@ -1805,8 +1805,8 @@ suostumusta. [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/19
 *3 momentti on kumottu
 L:lla [<u>7.10.2005/795</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795).*
 
-[<u>23
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:23
+§
 
 Myyjän oikeus oikaista virhe
 
@@ -1825,8 +1825,8 @@ momentissa tarkoitettuun virheen oikaisuun, jos ostaja on korjauttanut
 virheen eikä olosuhteet huomioon ottaen kohtuudella voida edellyttää,
 että ostaja olisi jäänyt odottamaan oikaisua myyjän puolelta.
 
-[<u>24
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:24
+§
 
 Oikaisun ajankohta
 
@@ -1849,8 +1849,8 @@ ryhtynyt tehokkaisiin toimenpiteisiin virheen oikaisemiseksi, vaikka hän
 on velvollinen virheen korjaamiseen, ostajalla on oikeus teettää oikaisu
 toisella ja vaatia siitä korvaus 26 §:n nojalla.
 
-[<u>25
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:25
+§
 
 Hinnanalennus ja kaupan purku virheen vuoksi
 
@@ -1875,8 +1875,8 @@ kauppahinnalle korkolain [<u>(633/1982) 3
 momentin mukaista korkoa siitä päivästä lukien, jona myyjä vastaanotti
 kauppahinnan. [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
-[<u>26
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:26
+§
 
 Vahingonkorvaus virheen vuoksi
 
@@ -1918,8 +1918,8 @@ oikaisun vuoksi.
 
 Muut virheet uuden asunnon kaupassa
 
-[<u>27
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:27
+§
 
 Taloudellinen virhe
 
@@ -1958,8 +1958,8 @@ joku hänen puolellaan on menetellyt törkeän huolimattomasti tai
 kunnianvastaisesti ja
 arvottomasti. [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
-[<u>28
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:28
+§
 
 Oikeudellinen virhe
 
@@ -1994,8 +1994,8 @@ virhe tai vahinko johdu hänen menettelystään.
 Ostajan velvollisuudet ja ostajan sopimusrikkomuksen seuraamukset uuden
 asunnon kaupassa
 
-[<u>29
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:29
+§
 
 Kauppahinnan maksuajankohta ja omistuksenpidätysehdon voimassaolo
 
@@ -2033,7 +2033,7 @@ panttioikeuden kauppahintasaatavansa vakuudeksi, on voimassa enintään
 siihen saakka, kun ostaja on tallettanut 3 momentissa tarkoitetun osan
 kauppahinnasta pankkiin ja maksanut muun osan myyjälle.
 
-30
+4:30
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Hinnankorotusehdot
@@ -2065,8 +2065,8 @@ ei myöskään kohtuudella olisi voinut välttää eikä voittaa.
 Hinnankorotuksesta ja sen perusteesta on ilmoitettava ostajalle
 viipymättä.
 
-[<u>31
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:31
+§
 
 Asunnon yksityiskohtien täsmentäminen
 
@@ -2081,8 +2081,8 @@ asetettava ostajalle kohtuullinen aika, jonka kuluessa tämä voi muuttaa
 täsmennystä. Jos ostaja ei muuta saamaansa täsmennystä asetetun ajan
 kuluessa, siitä tulee sitova.
 
-[<u>32
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:32
+§
 
 Kaupan peruuttaminen
 
@@ -2090,8 +2090,8 @@ Jos ostaja rikkoo sopimuksen peruuttamalla asunnon kaupan ennen kuin
 asunto on luovutettu ostajan hallintaan, myyjällä on oikeus korvaukseen
 hänelle aiheutuvasta vahingosta 35 §:n mukaan.
 
-[<u>33
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:33
+§
 
 Viivästyskorko
 
@@ -2099,8 +2099,8 @@ Jos ostaja ei maksa kauppahintaerää ajoissa, myyjällä on, milloin
 kauppaa ei peruuteta tai pureta, oikeus viivästyskorkoon
 korkolain [<u>(633/82)</u>](https://www.finlex.fi/fi/laki/ajantasa/1982/19820633) mukaisesti.
 
-[<u>34
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:34
+§
 
 Myyjän oikeus purkaa kauppa
 
@@ -2124,8 +2124,8 @@ johdu. [<u>(28.12.2018/1331)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/1
 Myyjä ei saa purkaa kauppaa ostajan maksuviivästyksen vuoksi sen
 jälkeen, kun viivästynyt maksu korkoineen on suoritettu.
 
-[<u>35
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:35
+§
 
 Myyjän oikeus vahingonkorvaukseen
 
@@ -2154,7 +2154,7 @@ Vahingonkorvauksen sovittelusta säädetään 38 §:ssä.
 
 Muut säännökset uuden asunnon kaupassa
 
-36
+4:36
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Täydentävät säännökset kaupan purkamisesta
@@ -2179,8 +2179,8 @@ Jos ostaja on pannut asuntoon tarpeellisia tai hyödyllisiä kustannuksia,
 myyjän on kaupan purkamisen yhteydessä suoritettava niistä ostajalle
 kohtuullinen korvaus.
 
-[<u>37
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:37
+§
 
 Asunnon kunnon huonontuminen ja ostajan purkuoikeus
 
@@ -2190,8 +2190,8 @@ aikana vahingoittunut ja tämä johtuu huolimattomuudesta ostajan
 puolella, ostaja ei saa purkaa kauppaa, ellei hän korvaa myyjälle
 mainitusta syystä johtuvaa arvon alenemista.
 
-[<u>38
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:38
+§
 
 Vahingonkorvauksen sovittelu
 
@@ -2208,14 +2208,14 @@ johtuu maksuvaikeuksista, joihin ostaja on joutunut sairauden,
 työttömyyden tai muun erityisen seikan vuoksi pääasiassa omatta
 syyttään.
 
-39
+4:39
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
-39 § on kumottu
+4:39 § on kumottu
 L:lla [<u>7.10.2005/795</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795).
 
-[<u>40
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:40
+§
 
 Vahingonkorvausta koskeva kanneaika eräissä tapauksissa
 
@@ -2236,8 +2236,8 @@ kuitenkin pantava vireille kymmenen vuoden kuluessa siitä, kun
 korvausvelvollinen laski vahingon aiheuttaneen materiaalin, ainesosan
 tai laitteen liikkeelle.
 
-[<u>41
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+4:41
+§
 
 Suhde muihin vahingonkorvaussäännöksiin
 
@@ -2251,8 +2251,8 @@ muun lain nojalla.
 
 Muut säännökset asunnon ensimmäisen myyjän ja laitetoimittajan vastuusta
 
-[<u>1
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+5:1
+§
 
 Asuntoyhteisön oikeus vedota rakentamista koskevaan sopimukseen
 
@@ -2262,8 +2262,8 @@ sopimuksessa ja vaikka yhteisön hallintoelin on ennen yhteisön hallinnon
 siirtymistä yhteisöosuuksien ostajille hyväksynyt sopimuksesta
 poikkeamisen yhteisön vahingoksi.
 
-[<u>2
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+5:2
+§
 
 Oikeus korvaukseen yhteisöoikeudellisten säännösten nojalla
 
@@ -2274,8 +2274,8 @@ hallinnon siirtymistä yhteisöosuuksien ostajille yhteisön johdon
 toimesta hyväksytty tai että yhteisön hallintoelin on ennen kyseistä
 hallinnon siirtymistä myöntänyt sitä koskevan vastuuvapauden.
 
-[<u>3
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+5:3
+§
 
 Asunnon ensimmäisen myyjän virhevastuu myöhemmälle ostajalle
 
@@ -2301,8 +2301,8 @@ vuoksi voisi 4 luvun 19 ja 20 §:n mukaan vedota virheeseen; eikä
 palauttamista ja ylittää määrältään sen, mitä asunnon ensimmäisen myyjän
 oma sopijapuoli olisi voinut vaatia samalla perusteella.
 
-[<u>4
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+5:4
+§
 
 Virheilmoitus
 
@@ -2326,7 +2326,7 @@ suojelemiseksi annetuissa säännöksissä tai määräyksissä; tai
 3\) virhe perustuu siihen, että asunnon ominaisuuksista aiheutuu vaaraa
 terveydelle tai omaisuudelle.
 
-5
+5:5
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Vakuuden voimassaolo myöhemmän ostajan hyväksi
@@ -2336,8 +2336,8 @@ Tämän lain 2 luvun 17, 18 b, 19 tai 19 c §:n taikka 4 luvun 3 tai 3 a
 mainittujen lainkohtien mukaisena vakuuden voimassaoloaikana on ostanut
 asunnon kolmannelta henkilöltä.
 
-[<u>6
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+5:6
+§
 
 Laitetoimittajan vastuu asunnon ostajalle
 
@@ -2353,8 +2353,8 @@ jos asunnon aikaisempi omistaja ei virheilmoituksen laiminlyönnin vuoksi
 voisi vedota virheeseen. Asunnon ensimmäisen myyjän laiminlyönti ei
 kuitenkaan rajoita myöhemmän ostajan oikeutta vedota virheeseen.
 
-[<u>7
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+5:7
+§
 
 Luvun säännösten pakottavuus
 
@@ -2367,7 +2367,7 @@ Käytetyn asunnon kauppa
 
 Yleiset säännökset
 
-1
+6:1
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Luvun soveltamisala
@@ -2386,8 +2386,8 @@ mukaisesti. Käytetyn asunnon muulta kuin perustajaosakkaalta ostaneen
 ostajan oikeudesta esittää vaatimuksia asunnon ensimmäiselle myyjälle
 säädetään 5 luvussa.
 
-[<u>2
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+6:2
+§
 
 Mahdollisuus poiketa luvun säännöksistä sopimusehdoin
 
@@ -2405,8 +2405,8 @@ mukaan; sekä
 2\) ostajan 14–17, 20 ja 21 §:n mukaisia oikeuksia voidaan rajoittaa
 vain sopimuksessa yksilöityjen seikkojen osalta.
 
-[<u>3
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+6:3
+§
 
 Tarpeistoesineiden kuuluminen kauppaan
 
@@ -2417,7 +2417,7 @@ jollei toisin ole sovittu.
 Hallinnan ja asiakirjojen luovutus, kustannusten jako ja vaaranvastuu
 käytetyn asunnon kaupassa
 
-4
+6:4
 § [<u>(28.12.2018/1331)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a28.12.2018-1331)
 
 Asunnon hallinnan ja osakekirjan tai muun asiakirjan luovutus sekä
@@ -2439,8 +2439,8 @@ ostajan saannon kirjaamiseen osake-huoneistorekisteriin ennen kuin
 ostaja maksaa kauppahinnan, ellei ole sovittu, että kauppahinta tai osa
 siitä erääntyy maksettavaksi vasta myöhemmin.
 
-[<u>5
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+6:5
+§
 
 Asunnosta aiheutuvat kustannukset
 
@@ -2474,14 +2474,14 @@ asunto-osakeyhtiölle säädetään asunto-osakeyhtiölaissa.
 Ostajan velvollisuudesta suorittaa varainsiirtoveroa säädetään
 varainsiirtoverolaissa. [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
-6
+6:6
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
-6 § on kumottu
+6:6 § on kumottu
 L:lla [<u>7.10.2005/795</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795).
 
-[<u>7
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+6:7
+§
 
 Vaaranvastuu
 
@@ -2502,7 +2502,7 @@ kauppahinta.
 Seuraamukset kaupan kohteen luovutuksen viivästymisestä käytetyn asunnon
 kaupassa
 
-8
+6:8
 § [<u>(28.12.2018/1331)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a28.12.2018-1331)
 
 Oikeus pidättyä maksusta
@@ -2526,8 +2526,8 @@ antaminen tulee viivästymään, ostajalla on oikeus pidättyä kauppahinnan
 maksamisesta, kunnes myyjä saattaa todennäköiseksi, että hän kykenee
 täyttämään sopimuksen ajoissa.
 
-[<u>9
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+6:9
+§
 
 Kaupan purku ja vahingonkorvaus
 
@@ -2548,8 +2548,8 @@ Ostaja ei saa purkaa kauppaa myyjän viivästyksen vuoksi sen jälkeen, kun
 asunnon hallinta ja 4 §:n 1 momentissa tarkoitetut asiakirjat on
 luovutettu.
 
-[<u>10
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+6:10
+§
 
 Purku ennakoidun viivästyksen vuoksi
 
@@ -2559,8 +2559,8 @@ sovittu täyttämisajankohta on käsillä.
 
 Käytetyn asunnon virhe
 
-[<u>11
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+6:11
+§
 
 Yleinen virhesäännös
 
@@ -2597,8 +2597,8 @@ koskevan tiedon, jonka hän asuntojen markkinoinnissa annettavista
 tiedoista annetun asetuksen mukaan olisi ollut velvollinen antamaan, ja
 laiminlyönnin voidaan olettaa vaikuttaneen kauppaan.
 
-[<u>12
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+6:12
+§
 
 Asunnon ennakkotarkastus
 
@@ -2624,8 +2624,8 @@ myöskään, jos myyjä on menetellyt törkeän huolimattomasti tai
 kunnianvastaisesti ja arvottomasti eikä myöskään sikäli kuin tämän luvun
 19 §:stä muuta johtuu.
 
-[<u>13
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+6:13
+§
 
 Virheellisyyden määräävä ajankohta
 
@@ -2635,7 +2635,7 @@ virhearviointiin.
 
 Käytetyn asunnon virheen seuraamukset
 
-14
+6:14
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Virheilmoitus
@@ -2658,8 +2658,8 @@ Ostaja saa 1 ja 2 momentin säännösten estämättä vedota virheeseen, jos
 myyjä on menetellyt törkeän huolimattomasti tai kunnianvastaisesti ja
 arvottomasti.
 
-[<u>15
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+6:15
+§
 
 Oikeus pidättyä maksusta
 
@@ -2668,7 +2668,7 @@ jäljellä olevaa osaa kauppahinnasta. Ostaja ei kuitenkaan saa pidättää
 rahamäärää, joka ilmeisesti ylittää ne vaatimukset, joihin hänellä on
 virheen perusteella oikeus.
 
-16
+6:16
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Hinnanalennus ja kaupan purku virheen vuoksi
@@ -2690,8 +2690,8 @@ olennaista haittaa eikä muuta seuraamusta voida pitää kohtuullisena.
 Jos myyjänä on elinkeinonharjoittaja, ostajalla on oikeus purkaa kauppa
 4 luvun 25 §:ssä säädetyin edellytyksin.
 
-[<u>17
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+6:17
+§
 
 Vahingonkorvaus virheen vuoksi
 
@@ -2703,7 +2703,7 @@ Jos myyjänä on elinkeinonharjoittaja, ostajalla on oikeus
 vahingonkorvaukseen 4 luvun 26 §:n 1 ja 2 momentissa säädetyin
 perustein.
 
-18
+6:18
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Elinkeinonharjoittajan vastuu asunnossa tehdyistä korjaus- ja
@@ -2719,8 +2719,8 @@ tilauksesta asuntoon korjaus- ja parannustöitä, on voimassa, mitä
 eräistä kuluttajasopimuksista säädetään [<u>kuluttajansuojalain 8
 luvussa</u>](https://www.finlex.fi/fi/laki/ajantasa/1978/19780038#L8).
 
-[<u>19
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+6:19
+§
 
 Ostajan asema kummankin osapuolen oltua huolimaton
 
@@ -2732,7 +2732,7 @@ estämättä vaatia olosuhteisiin nähden kohtuullista hinnanalennusta.
 
 Muut virheet käytetyn asunnon kaupassa
 
-20
+6:20
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Taloudellinen virhe
@@ -2770,8 +2770,8 @@ kauppaan.
 Jos kaupan kohteessa on taloudellinen virhe, sovelletaan, mitä tässä
 luvussa virheestä säädetään.
 
-[<u>21
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+6:21
+§
 
 Oikeudellinen virhe
 
@@ -2799,7 +2799,7 @@ virhe tai vahinko johdu hänen menettelystään.
 Ostajan velvollisuudet ja ostajan sopimusrikkomusten seuraamukset
 käytetyn asunnon kaupassa
 
-22
+6:22
 § [<u>(28.12.2018/1331)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a28.12.2018-1331)
 
 Kauppahinnan maksaminen
@@ -2814,16 +2814,16 @@ kun:
 2\) hänelle luovutetaan edellä mainitut asiakirjat tai annetaan
 suostumus hänen saantonsa kirjaamiseen osakehuoneistorekisteriin.
 
-[<u>23
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+6:23
+§
 
 Viivästyskorko
 
 Jos ostaja ei maksa kauppahintaa tai sen osaa ajoissa, myyjällä on
 oikeus viivästyskorkoon korkolain mukaisesti.
 
-[<u>24
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+6:24
+§
 
 Myyjän oikeus purkaa kauppa
 
@@ -2845,8 +2845,8 @@ annettu. [<u>(28.12.2018/1331)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994
 Myyjä ei saa purkaa kauppaa ostajan maksuviivästyksen vuoksi sen
 jälkeen, kun viivästynyt maksu korkoineen on suoritettu.
 
-[<u>25
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+6:25
+§
 
 Myyjän oikeus vahingonkorvaukseen
 
@@ -2860,7 +2860,7 @@ Jos myyjänä on elinkeinonharjoittaja ja ostajana kuluttaja, ostajan
 vahingonkorvausvelvollisuudesta on voimassa, mitä 4 luvun 35 §:ssä
 säädetään. [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
-26
+6:26
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Kaupan peruuttaminen
@@ -2872,7 +2872,7 @@ tällöin 4 luvun 35 §:n mukaisesti.
 
 Muut säännökset käytetyn asunnon kaupasta
 
-27
+6:27
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Muun kuin myyjän antamat tiedot
@@ -2891,8 +2891,8 @@ vuokrahuoneistojen välityksestä annetussa laissa.
 Edellä 1 momentissa tarkoitetun yhteisön ja sen edustajan
 korvausvastuusta säädetään 7 luvussa.
 
-[<u>28
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+6:28
+§
 
 Täydentävät säännökset kaupan purkamisesta
 
@@ -2924,8 +2924,8 @@ aikana vahingoittunut ja tämä johtuu huolimattomuudesta ostajan
 puolella, ostaja ei saa purkaa kauppaa, ellei hän korvaa myyjälle
 mainitusta syystä johtuvaa arvon alenemista.
 
-[<u>29
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+6:29
+§
 
 Vahingonkorvauksen sovittelu
 
@@ -2938,8 +2938,8 @@ Erinäiset säännökset
 
 Myyjän takautumisoikeus
 
-[<u>1
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+7:1
+§
 
 Takautumisoikeus asuntoyhteisön edustajan antamien tietojen perusteella
 
@@ -2955,8 +2955,8 @@ Jos myyjä tai hänen edustajansa on osaltaan ollut huolimaton antaessaan
 todistuksen tai tiedon ostajalle, vahingonkorvausta voidaan sovitella
 sen mukaan kuin olosuhteisiin nähden on kohtuullista.
 
-[<u>2
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+7:2
+§
 
 Takautumisoikeus rakentamisessa tapahtuneiden virheiden perusteella
 
@@ -2986,7 +2986,7 @@ mukaan kuin olosuhteisiin nähden on kohtuullista.
 Panttina olevan asunnon
 myynti [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
-2 a
+7:2 a
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Pantinhaltijan tiedonantovelvollisuus ja vastuu
@@ -3012,8 +3012,8 @@ tienneen ja josta ostaja perustellusti saattoi olettaa saavansa tiedon.
 
 Riitojen käsittely
 
-[<u>3
-§</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a843-1994)
+7:3
+§
 
 Välimiesmenettelyä koskevat ehdot
 
@@ -3021,7 +3021,7 @@ Ennen riidan syntymistä tehdyn sopimuksen ehto, jonka mukaan
 elinkeinonharjoittajan ja kuluttajan välinen riita-asia on ratkaistava
 välimiesmenettelyssä, ei sido kuluttajaa.
 
-4
+7:4
 § [<u>(13.3.2009/141)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a13.3.2009-141)
 
 Oikeuspaikka
@@ -3033,7 +3033,7 @@ luvussa</u>](https://www.finlex.fi/fi/laki/ajantasa/1734/17340004000#L10).
 Rangaistussäännökset ja
 seuraamusmaksu [<u>(9.7.2020/573)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a9.7.2020-573)
 
-5
+7:5
 § [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
 Ostajansuojasäännösten rikkominen
@@ -3065,7 +3065,7 @@ ryhmärakennuttajakonsulttiin, joka markkinoi ryhmärakennuttamislaissa
 tarkoitettua ryhmärakennuttamista
 kuluttajille. [<u>(6.3.2015/191)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a6.3.2015-191)
 
-5 a
+7:5 a
 § [<u>(9.7.2020/573)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a9.7.2020-573)
 
 Seuraamusmaksu
@@ -3078,7 +3078,7 @@ laissa [<u>(566/2020)</u>](https://www.finlex.fi/fi/laki/ajantasa/2020/20200566
 Vakuuksiin liittyvät
 säännökset [<u>(7.10.2005/795)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a7.10.2005-795)
 
-6
+7:6
 § [<u>(30.11.2012/682)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a30.11.2012-682)
 
 Ohje vakuuksista
@@ -3089,7 +3089,7 @@ rakennusvalvontaviranomaisten kanssa huolehdittava siitä, että ohjeita
 on ennen rakentamisen aloittamista niiden saatavilla, jotka rakentavat
 tai rakennuttavat asuntoja.
 
-7
+7:7
 § [<u>(21.4.2023/755)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a21.4.2023-755)
 
 Todistus suorituskyvyttömyysvakuudesta
@@ -3109,7 +3109,7 @@ kuluttajavirastolle säädetään rakentamislain [<u>(751/2023) 124
 *L:lla [<u>755/2023</u>](https://www.finlex.fi/fi/laki/smur/2023/20230755) muutettu
 7 § tulee voimaan 1.1.2025. Aiempi sanamuoto kuuluu:*
 
-7
+7:7
 § [<u>(17.1.2014/42)</u>](https://www.finlex.fi/fi/laki/ajantasa/1994/19940843?search%5Btype%5D=pika&search%5Bpika%5D=asuntokauppalaki#a17.1.2014-42)
 
 Todistus suorituskyvyttömyysvakuudesta
@@ -3131,7 +3131,7 @@ kuluttajavirastolle säädetään maankäyttö- ja rakennuslain [<u>(132/1999)
 
 Voimaantulo
 
-1 §
+8:1 §
 
 Voimaantulosäännös
 
@@ -3142,7 +3142,7 @@ ajankohtana. [<u>(17.7.1995/979)</u>](https://www.finlex.fi/fi/laki/ajantasa/19
 Ennen tämän lain voimaantuloa voidaan ryhtyä sen täytäntöönpanon
 edellyttämiin toimenpiteisiin.
 
-2 §
+8:2 §
 
 Soveltamissäännös
 
